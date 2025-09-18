@@ -14,6 +14,14 @@
                     <h1>Anemos</h1>
                 </div>
                 <div id="chat-messages"></div>
+                <div class="thinking-indicator-container" style="display: none;">
+                    <div class="thinking-indicator">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <p>Anemos está pensando...</p>
+                </div>
                 <div id="chat-input-container">
                     <input type="text" id="chat-input" placeholder="Digite sua mensagem...">
                     <button id="send-button">Enviar</button>
@@ -23,10 +31,13 @@
         <div id="face-column">
             <svg id="pixel-face" viewBox="0 0 24 24">
                 <!-- Face -->
-                <rect x="4" y="4" width="16" height="16" fill="#4a90e2" rx="2"/>
+                <rect x="4" y="4" width="16" height="16" fill="#4a90e2" rx="2" id="face-bg"/>
                 <!-- Eyes -->
-                <rect class="eye" id="eye-left" x="7" y="8" width="3" height="3" fill="#fff"/>
-                <rect class="eye" id="eye-right" x="14" y="8" width="3" height="3" fill="#fff"/>
+                <g id="eyes-group">
+                    <!-- Default eye shape: M 7 8 H 10 V 11 H 7 Z -->
+                    <path class="eye" id="eye-left" d="M 7 8 H 10 V 11 H 7 Z" fill="#fff"/>
+                    <path class="eye" id="eye-right" d="M 14 8 H 17 V 11 H 14 Z" fill="#fff"/>
+                </g>
                 <!-- Mouth -->
                 <path id="mouth" d="M 9 15 H 15" stroke="#fff" stroke-width="1.5" fill="none" stroke-linecap="round"/>
             </svg>
