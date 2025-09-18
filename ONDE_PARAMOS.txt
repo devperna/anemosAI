@@ -1,0 +1,9 @@
+Lembrete para o nosso próximo encontro:
+
+Nós decidimos criar uma interface web mais bonita para o Anemos.
+
+O plano é o seguinte:
+1.  **Backend:** Usar o framework Flask para servir o chatbot.
+2.  **Frontend:** Criar uma página HTML com CSS e JavaScript para ter uma interface de chat moderna.
+
+O próximo passo é começar a reestruturar o projeto para adicionar o Flask e criar os arquivos da interface web.

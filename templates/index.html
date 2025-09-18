@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anemos - Chat</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="main-container">
+        <div id="chat-column">
+            <div id="chat-container">
+                <div id="chat-header">
+                    <h1>Anemos</h1>
+                </div>
+                <div id="chat-messages"></div>
+                <div id="chat-input-container">
+                    <input type="text" id="chat-input" placeholder="Digite sua mensagem...">
+                    <button id="send-button">Enviar</button>
+                </div>
+            </div>
+        </div>
+        <div id="face-column">
+            <svg id="pixel-face" viewBox="0 0 24 24">
+                <!-- Face -->
+                <rect x="4" y="4" width="16" height="16" fill="#4a90e2" rx="2"/>
+                <!-- Eyes -->
+                <rect class="eye" id="eye-left" x="7" y="8" width="3" height="3" fill="#fff"/>
+                <rect class="eye" id="eye-right" x="14" y="8" width="3" height="3" fill="#fff"/>
+                <!-- Mouth -->
+                <path id="mouth" d="M 9 15 H 15" stroke="#fff" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+            </svg>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>

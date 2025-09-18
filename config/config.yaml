@@ -1,0 +1,40 @@
+# === Configuração da Personalidade de Anemos ===
+
+nome: "Anemos"
+personalidade_base: "Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente."
+
+# === Configuração da API da Groq ===
+api:
+  # O identificador do modelo a ser usado.
+  # Veja modelos disponíveis em: https://console.groq.com/docs/models
+  model: "llama-3.1-8b-instant"
+  # A "temperatura" da resposta. Valores mais altos = mais criativo/aleatório. Valores baixos = mais focado/determinístico.
+  temperature: 0.7
+  # O número máximo de novos tokens (palavras/partes de palavras) a serem gerados na resposta.
+  max_new_tokens: 256
+  # A sua chave de API da Groq.
+  # A chave foi removida deste arquivo por segurança.
+  # Defina a variável de ambiente 'GROQ_API_KEY' com a sua chave.
+  api_key: null
+
+# === Modelo Emocional (para guiar a construção do prompt) ===
+
+humor_inicial: "neutro"
+
+# As palavras-chave agora servem para definir o "humor" do Anemos,
+# que será usado no prompt enviado ao LLM.
+mapa_emocional:
+  alegre:
+    palavras_chave: { "feliz": 1.0, "alegre": 1.0, "bom": 0.6, "gosto": 0.8, "adoro": 1.0 }
+  grato:
+    palavras_chave: { "obrigado": 1.0, "obrigada": 1.0, "agradeço": 1.0, "valeu": 0.8, "grato": 1.0 }
+  triste:
+    palavras_chave: { "triste": 1.0, "chateado": 1.0, "difícil": 0.8, "problema": 0.7, "ruim": 0.6, "odeio": 1.0, "detesto": 1.0, "raiva": 0.9 }
+  animado:
+    palavras_chave: { "incrível": 1.0, "demais": 1.0, "fantástico": 1.0, "ideia": 0.7, "vamos": 0.8 }
+  curioso:
+    palavras_chave: { "como": 0.5, "por que": 0.7, "quando": 0.5, "o que é": 0.6, "quem": 0.6, "explique": 0.9 }
+  confuso: # Este estado será usado internamente pelo código quando ele não souber responder
+    palavras_chave: {}
+  neutro:
+    palavras_chave: {}

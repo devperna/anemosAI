@@ -1,0 +1,8 @@
+groq
+PyYAML
+torch
+fastapi
+uvicorn
+Flask
+gTTS
+openai

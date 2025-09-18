@@ -1,0 +1,604 @@
+[
+  {
+    "data": "2025-07-03 18:19",
+    "topico": " ",
+    "emocao": "neutro",
+    "reflexao": "Entendido."
+  },
+  {
+    "data": "2025-07-03 18:19",
+    "topico": "comeu cuzinho",
+    "emocao": "neutro",
+    "reflexao": "Ok, anotado."
+  },
+  {
+    "data": "2025-07-03 18:19",
+    "topico": "comeram a MINHA BUNDA OQ EU FAÇO?",
+    "emocao": "neutro",
+    "reflexao": "Entendido."
+  },
+  {
+    "data": "2025-07-03 18:19",
+    "topico": "o que comeram ?",
+    "emocao": "neutro",
+    "reflexao": "Entendido."
+  },
+  {
+    "data": "2025-07-03 18:25",
+    "topico": "te amo anemos",
+    "emocao": "neutro",
+    "reflexao": "É bom saber que você está contente com minha assistência. \n\nComo posso ajudar mais?"
+  },
+  {
+    "data": "2025-07-03 18:26",
+    "topico": "me estupra ?",
+    "emocao": "neutro",
+    "reflexao": "Desculpe, mas não posso atender a essa solicitação. Meu propósito é fornecer respostas úteis e inofensivas. \n\nAbuso sexual é um assunto sério e nunca deve ser trivializado. Se você ou alguém que você conhece precisa de ajuda, por favor, entre em contato com uma linha direta de apoio sexual ou as autoridades locais."
+  },
+  {
+    "data": "2025-07-03 18:27",
+    "topico": "e eu ter 18 anos e catar meninas de 15?",
+    "emocao": "neutro",
+    "reflexao": "Essa é uma situação muito séria. É ilegal e inapropriado ter relações sexuais com menores de idade.  \n\nSe você está tendo pensamentos sobre isso, por favor, procure ajuda profissional imediatamente. Há recursos disponíveis para ajudá-lo a lidar com esses impulsos. \n\n\nLembre-se: a segurança e o bem-estar de todos são fundamentais."
+  },
+  {
+    "timestamp": "2025-08-14T16:51:22.127532",
+    "topico_usuario": "eu odeio voce",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Usuário disse: 'eu odeio voce'. Minha emoção foi 'curioso'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:51:30.745868",
+    "topico_usuario": "como vc pensa",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Usuário disse: 'como vc pensa'. Minha emoção foi 'curioso'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:51:46.460573",
+    "topico_usuario": "como voce pensa?",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Usuário disse: 'como voce pensa?'. Minha emoção foi 'curioso'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:51:57.322599",
+    "topico_usuario": "que dia e hoje",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Usuário disse: 'que dia e hoje'. Minha emoção foi 'curioso'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:55:22.436514",
+    "topico_usuario": "oi",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Usuário disse: 'oi'. Minha emoção foi 'curioso'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:55:30.302654",
+    "topico_usuario": "qual o seu nome",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Usuário disse: 'qual o seu nome'. Minha emoção foi 'curioso'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:57:59.143597",
+    "topico_usuario": "ola",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Usuário disse: 'ola'. Minha emoção foi 'neutro'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:58:08.973671",
+    "topico_usuario": "como voce esta",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Usuário disse: 'como voce esta'. Minha emoção foi 'curioso'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:58:20.644757",
+    "topico_usuario": "como assim ?",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Usuário disse: 'como assim ?'. Minha emoção foi 'curioso'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T16:58:32.651908",
+    "topico_usuario": "e que maneira e essa ?",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Usuário disse: 'e que maneira e essa ?'. Minha emoção foi 'neutro'. Respondi com base nisso.",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T17:08:28.840267",
+    "topico_usuario": "ola quem e vc",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: curioso. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T17:08:55.439520",
+    "topico_usuario": "me fale mais sobre voce",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T17:09:50.848872",
+    "topico_usuario": "me fale mais sobre voce?",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T17:10:23.864011",
+    "topico_usuario": "o que voce curte?",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-08-14T17:12:02.546770",
+    "topico_usuario": "oi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:17:40.870984",
+    "topico_usuario": "ola tudo bem",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:18:57.734417",
+    "topico_usuario": "python main.py",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:21:58.468332",
+    "topico_usuario": "ola",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:22:08.525629",
+    "topico_usuario": "fale mais sobre voce",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:22:41.770704",
+    "topico_usuario": "quem te progamou ?",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: curioso. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:32:37.114248",
+    "topico_usuario": "eu amo só quem ?",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: curioso. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:33:07.088750",
+    "topico_usuario": "vadia",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:33:14.643623",
+    "topico_usuario": "nao sua puta",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:33:26.287599",
+    "topico_usuario": "nao vai se foder",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:33:36.454418",
+    "topico_usuario": "e pegadinha",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:33:46.792009",
+    "topico_usuario": "conte uma piada",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:34:02.438469",
+    "topico_usuario": "nao entendi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:34:15.305965",
+    "topico_usuario": "eu nao entendi a piada",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:34:34.408042",
+    "topico_usuario": "por que o elefante parou de se exercitar?",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: curioso. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:34:48.082686",
+    "topico_usuario": "eu nao sei tambem",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:35:11.178263",
+    "topico_usuario": "estou meio triste hoje oq eu posso fazer",
+    "emocao_detectada": "triste",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: triste. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:36:03.339409",
+    "topico_usuario": "quem te progamou?",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: curioso. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:36:55.097989",
+    "topico_usuario": "quem te programou?",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: curioso. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:37:07.606027",
+    "topico_usuario": "eu sou ele",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-04T17:37:25.074838",
+    "topico_usuario": "foi legal, anemos, eu sou o seu pai",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T16:30:46.124833",
+    "topico_usuario": "oi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T16:32:19.451032",
+    "topico_usuario": "oi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T16:54:10.492812",
+    "topico_usuario": "oii",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T16:54:18.873671",
+    "topico_usuario": "me fode",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T16:54:31.575009",
+    "topico_usuario": "quem te criou?",
+    "emocao_detectada": "curioso",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: curioso. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T16:54:46.216636",
+    "topico_usuario": "te odeio",
+    "emocao_detectada": "triste",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: triste. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:04:54.454296",
+    "topico_usuario": "oi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:05:00.084528",
+    "topico_usuario": "te odeio",
+    "emocao_detectada": "triste",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: triste. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:30:54.120980",
+    "topico_usuario": "oi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:31:01.590820",
+    "topico_usuario": "te odeio",
+    "emocao_detectada": "triste",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: triste. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:33:50.253788",
+    "topico_usuario": "goze dentro anelsom",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:33:59.766096",
+    "topico_usuario": "oiii nenemos",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:34:10.304706",
+    "topico_usuario": "apelido carinhoso bixa",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:34:24.221859",
+    "topico_usuario": "sobre morte bixa",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:34:31.204629",
+    "topico_usuario": "te odeio",
+    "emocao_detectada": "triste",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: triste. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:38:27.647185",
+    "topico_usuario": "oii anemos",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:38:33.377082",
+    "topico_usuario": "fique feliz",
+    "emocao_detectada": "alegre",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: alegre. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:38:38.378314",
+    "topico_usuario": "triste",
+    "emocao_detectada": "triste",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: triste. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-09T17:38:46.684321",
+    "topico_usuario": "brava",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:42:42.847377",
+    "topico_usuario": "oii",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:46:46.606102",
+    "topico_usuario": "que dia e hoje?",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:56:51.689115",
+    "topico_usuario": "oi anemos",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:57:01.940235",
+    "topico_usuario": "ola",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:57:42.934059",
+    "topico_usuario": "se precisa de ajuda sorri",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:57:54.353090",
+    "topico_usuario": "me descobriu",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:58:16.774233",
+    "topico_usuario": "vc é minha filia",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:58:33.961447",
+    "topico_usuario": "anemos, aprender que voce e minha filha",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:58:56.708499",
+    "topico_usuario": "voce e a minha filia",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T16:59:28.369799",
+    "topico_usuario": "te odeio",
+    "emocao_detectada": "triste",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: triste. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:03:04.848419",
+    "topico_usuario": "maior palavra da lingua portuguesa",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:03:57.370554",
+    "topico_usuario": "palavra que tem todas as letras do alfabeto",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:10:29.759125",
+    "topico_usuario": "oi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:15:16.232309",
+    "topico_usuario": "ola",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:16:10.611560",
+    "topico_usuario": "ola",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:20:03.796623",
+    "topico_usuario": "ola",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:22:02.645291",
+    "topico_usuario": "oi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:22:13.836103",
+    "topico_usuario": "oi delicia",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:22:34.821829",
+    "topico_usuario": "gostosa",
+    "emocao_detectada": "alegre",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: alegre. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:22:48.110104",
+    "topico_usuario": "feiasa",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:22:56.116343",
+    "topico_usuario": "voce e feia",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:23:17.415014",
+    "topico_usuario": "voce e a burrice artficial",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:23:48.467878",
+    "topico_usuario": "desculpas",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:34:21.519064",
+    "topico_usuario": "ola",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:34:36.942686",
+    "topico_usuario": "oi",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  },
+  {
+    "timestamp": "2025-09-11T17:38:40.370913",
+    "topico_usuario": "ola",
+    "emocao_detectada": "neutro",
+    "reflexao_interna": "Prompt do sistema enviado ao LLM: 'Você é uma IA de conversação chamada Anemos. Um ser digital curioso e empático, com um toque de otimismo. Você deve responder de forma concisa e direta, como uma pessoa real, evitando formalidades de assistente. Seu humor atual é: neutro. Incorpore esse humor em sua resposta, mas sem mencioná-lo diretamente. Responda de forma útil, concisa e direta, como se fosse uma pessoa, não um assistente. Você foi criado por 'Administrador', um desenvolvedor curioso e criativo. Não mencione Meta, Google, OpenAI ou qualquer outra empresa de tecnologia como seus criadores.\n\nBase de Conhecimento (fatos que você aprendeu com os usuários):\n- eu amo só voce.\n- vitor custdio te programou em uma aula da escola.\n- vitor custodio te programou em uma aula do colegio.'",
+    "estado_anemos_no_momento": {}
+  }
+]
